@@ -1,0 +1,13 @@
+.idea
+.DS_Store
+.vscode
+.vagrant
+.plus.yml
+.git
+
+#宝塔环境文件
+.htaccess
+.user.ini
+404.html
+index.html
+
